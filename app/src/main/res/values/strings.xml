@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aprann Metye</string>
+    <string name="home_subtitle">Aprann yon metye gratis jodi a</string>
+    <string name="search_placeholder">Chèche yon metye (egz: Web, Mekanik)…</string>
+    <string name="badge_start">Kòmanse</string>
+    <string name="tab_free_courses">Kou Gratis</string>
+    <string name="tab_workshops">Atelye &amp; Sètifika</string>
+    <string name="workshops_title">Fòmasyon Avanse</string>
+    <string name="workshops_subtitle">Atelye pratik ak pwofesyonèl lokal yo</string>
+    <string name="btn_read_lesson">Li Leson an</string>
+    <string name="btn_download_pdf">Telechaje Gid PDF</string>
+    <string name="btn_register_whatsapp">Enskri sou WhatsApp</string>
+    <string name="btn_back">Retounen</string>
+    <string name="btn_clear_search">Efase rechèch</string>
+    <string name="btn_mark_complete">Make kòm Konplete</string>
+    <string name="btn_completed">Konplete</string>
+</resources>

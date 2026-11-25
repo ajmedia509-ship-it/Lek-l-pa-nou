@@ -1,0 +1,6 @@
+{
+  "name": "Aprann Metye",
+  "description": "Aplikasyon pou jèn Ayisyen aprann metye pratik gratis epi jwenn fòmasyon avanse ak sètifika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
